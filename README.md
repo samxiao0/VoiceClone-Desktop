@@ -11,3 +11,7 @@ A fully offline GPT-TTS powered voice cloning desktop app built with **Python + 
 pip install -r requirements.txt
 python app.py
 
+### screenshots
+![App Screenshot](assets/)
+
+
