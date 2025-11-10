@@ -1,0 +1,4 @@
+Model: ResembleAI/chatterbox
+Cache Path: C:\Users\samxaio\.cache\huggingface\hub\models--ResembleAI--chatterbox\
+Version: Snapshot 05e904af2b5c7f8e482687a9d7336c5c824467d9
+Use `python download_tts_model.py` to restore.
